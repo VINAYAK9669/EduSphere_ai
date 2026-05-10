@@ -37,6 +37,7 @@ htmlcov/
 
 # ChromaDB local data
 chroma_data/
+.chromadb/
 
 # Logs
 *.log
